@@ -1,0 +1,45 @@
+c:\users\stephen faust\documents\visual studio 2013\Projects\ninja turtle\ninja turtle\bin\ninja turtle.dll.config
+c:\users\stephen faust\documents\visual studio 2013\Projects\ninja turtle\ninja turtle\bin\ninja turtle.dll
+c:\users\stephen faust\documents\visual studio 2013\Projects\ninja turtle\ninja turtle\bin\ninja turtle.pdb
+c:\users\stephen faust\documents\visual studio 2013\Projects\ninja turtle\ninja turtle\bin\ninja turtle.xml
+c:\users\stephen faust\documents\visual studio 2013\Projects\ninja turtle\ninja turtle\obj\Debug\ninja_turtle.Resources.resources
+c:\users\stephen faust\documents\visual studio 2013\Projects\ninja turtle\ninja turtle\obj\Debug\ninja turtle.vbproj.GenerateResource.Cache
+c:\users\stephen faust\documents\visual studio 2013\Projects\ninja turtle\ninja turtle\obj\Debug\ninja turtle.dll
+c:\users\stephen faust\documents\visual studio 2013\Projects\ninja turtle\ninja turtle\obj\Debug\ninja turtle.xml
+c:\users\stephen faust\documents\visual studio 2013\Projects\ninja turtle\ninja turtle\obj\Debug\ninja turtle.pdb
+C:\Users\Keenan\Desktop\ninja turtle\ninja turtle\bin\ninja turtle.dll.config
+C:\Users\Keenan\Desktop\ninja turtle\ninja turtle\bin\ninja turtle.dll
+C:\Users\Keenan\Desktop\ninja turtle\ninja turtle\bin\ninja turtle.pdb
+C:\Users\Keenan\Desktop\ninja turtle\ninja turtle\bin\ninja turtle.xml
+C:\Users\Keenan\Desktop\ninja turtle\ninja turtle\obj\Debug\ninja_turtle.Resources.resources
+C:\Users\Keenan\Desktop\ninja turtle\ninja turtle\obj\Debug\ninja turtle.vbproj.GenerateResource.Cache
+C:\Users\Keenan\Desktop\ninja turtle\ninja turtle\obj\Debug\ninja turtle.dll
+C:\Users\Keenan\Desktop\ninja turtle\ninja turtle\obj\Debug\ninja turtle.xml
+C:\Users\Keenan\Desktop\ninja turtle\ninja turtle\obj\Debug\ninja turtle.pdb
+E:\ninja turtle\ninja turtle\bin\ninja turtle.dll.config
+E:\ninja turtle\ninja turtle\bin\ninja turtle.dll
+E:\ninja turtle\ninja turtle\bin\ninja turtle.pdb
+E:\ninja turtle\ninja turtle\bin\ninja turtle.xml
+E:\ninja turtle\ninja turtle\obj\Debug\ninja_turtle.Resources.resources
+E:\ninja turtle\ninja turtle\obj\Debug\ninja turtle.vbproj.GenerateResource.Cache
+E:\ninja turtle\ninja turtle\obj\Debug\ninja turtle.dll
+E:\ninja turtle\ninja turtle\obj\Debug\ninja turtle.xml
+E:\ninja turtle\ninja turtle\obj\Debug\ninja turtle.pdb
+C:\Users\Lerma\Desktop\ninja turtle\ninja turtle\bin\ninja turtle.dll.config
+C:\Users\Lerma\Desktop\ninja turtle\ninja turtle\bin\ninja turtle.dll
+C:\Users\Lerma\Desktop\ninja turtle\ninja turtle\bin\ninja turtle.pdb
+C:\Users\Lerma\Desktop\ninja turtle\ninja turtle\bin\ninja turtle.xml
+C:\Users\Lerma\Desktop\ninja turtle\ninja turtle\obj\Debug\ninja_turtle.Resources.resources
+C:\Users\Lerma\Desktop\ninja turtle\ninja turtle\obj\Debug\ninja turtle.vbproj.GenerateResource.Cache
+C:\Users\Lerma\Desktop\ninja turtle\ninja turtle\obj\Debug\ninja turtle.dll
+C:\Users\Lerma\Desktop\ninja turtle\ninja turtle\obj\Debug\ninja turtle.xml
+C:\Users\Lerma\Desktop\ninja turtle\ninja turtle\obj\Debug\ninja turtle.pdb
+C:\Users\Lerma\Documents\Stuff\ninja turtle\ninja turtle\bin\ninja turtle.dll.config
+C:\Users\Lerma\Documents\Stuff\ninja turtle\ninja turtle\bin\ninja turtle.dll
+C:\Users\Lerma\Documents\Stuff\ninja turtle\ninja turtle\bin\ninja turtle.pdb
+C:\Users\Lerma\Documents\Stuff\ninja turtle\ninja turtle\bin\ninja turtle.xml
+C:\Users\Lerma\Documents\Stuff\ninja turtle\ninja turtle\obj\Debug\ninja_turtle.Resources.resources
+C:\Users\Lerma\Documents\Stuff\ninja turtle\ninja turtle\obj\Debug\ninja turtle.vbproj.GenerateResource.Cache
+C:\Users\Lerma\Documents\Stuff\ninja turtle\ninja turtle\obj\Debug\ninja turtle.dll
+C:\Users\Lerma\Documents\Stuff\ninja turtle\ninja turtle\obj\Debug\ninja turtle.xml
+C:\Users\Lerma\Documents\Stuff\ninja turtle\ninja turtle\obj\Debug\ninja turtle.pdb
